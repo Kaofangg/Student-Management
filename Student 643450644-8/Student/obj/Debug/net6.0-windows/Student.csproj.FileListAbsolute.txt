@@ -1,0 +1,17 @@
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\bin\Debug\net6.0-windows\Student.exe
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\bin\Debug\net6.0-windows\Student.deps.json
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\bin\Debug\net6.0-windows\Student.runtimeconfig.json
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\bin\Debug\net6.0-windows\Student.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\bin\Debug\net6.0-windows\ref\Student.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\bin\Debug\net6.0-windows\Student.pdb
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\obj\Debug\net6.0-windows\Student.csproj.AssemblyReference.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\obj\Debug\net6.0-windows\Student.Form1.resources
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\obj\Debug\net6.0-windows\Student.csproj.GenerateResource.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\obj\Debug\net6.0-windows\Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\obj\Debug\net6.0-windows\Student.AssemblyInfoInputs.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\obj\Debug\net6.0-windows\Student.AssemblyInfo.cs
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\obj\Debug\net6.0-windows\Student.csproj.CoreCompileInputs.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\obj\Debug\net6.0-windows\Student.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\obj\Debug\net6.0-windows\ref\Student.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\obj\Debug\net6.0-windows\Student.pdb
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Student\Student\obj\Debug\net6.0-windows\Student.genruntimeconfig.cache
